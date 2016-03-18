@@ -1,0 +1,2 @@
+# ReactiveCocoaProgram
+浅尝ReactiveCocoa的使用，ReactiveCocoa中几个概念的理解，以及ReactiveCocoa下的UI使用
